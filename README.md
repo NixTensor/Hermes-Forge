@@ -12,7 +12,7 @@ When Hermes encounters a task for which it lacks the proper tools, it can "forge
 
 ---
 
-## 🧠 Why is this "Exotic"?
+## 🧠 Why is it **powerful**?
 
 Most agents are limited by the tools provided by their developers. **Hermes-Forge** breaks this barrier. 
 
