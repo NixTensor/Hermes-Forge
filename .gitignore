@@ -1,4 +1,4 @@
-# Clés et secrets
+# Keys and secrets
 .env
 
 # Python
@@ -15,5 +15,5 @@ npm-debug.log*
 .DS_Store
 Thumbs.db
 
-# Fichiers générés localement par Hermes
+# Files generated locally by Hermes
 mcp_servers/
