@@ -61,11 +61,12 @@ Simply tell Hermes to connect to a new service:
 ---
 
 ## 📂 Project Structure
-
+```yaml
 hermes-forge/
 ├── SKILL.md          # The core instructions for the "Forge" persona
 ├── templates/        # (Optional) Base templates for MCP servers
 └── README.md         # Professional documentation
+```
 
 ## 🤝 Contributing
 
